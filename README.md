@@ -1,5 +1,5 @@
 # SmartCalculatorUsingPython
-Here I i have Created a smart calculator using python it will perform basics tasks as well as some complex tasks 
+Here I i have Created a smart calculator using python it will perform basics operations as well as some complex operations 
 
 
 #################################################################
